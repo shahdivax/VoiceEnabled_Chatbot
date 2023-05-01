@@ -20,6 +20,7 @@ cd VoiceEnabled_Chatbot
 ```
 pip install -r requirements.txt
 ```
+Note: Installing `PyAudio` might require additional steps on some systems. If you encounter any issues during the installation, please refer to the [PyAudio documentation](https://people.csail.mit.edu/hubert/pyaudio/) for platform-specific instructions.
 
 4. Obtain your OpenAI API key from [OpenAI Platform API Keys](https://platform.openai.com/account/api-keys) and set it as an environment variable:
 
